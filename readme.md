@@ -1,4 +1,4 @@
-# Maze Generator 🧩
+# Maze Generator 
 
 Welcome to the **Maze Generator**! This Python project generates perfect mazes using a **Depth-First Search (DFS)** algorithm. A perfect maze is a maze that has exactly one solution and no inaccessible areas. This tool is perfect for learning about maze generation algorithms, solving mazes, or just having fun!
 
